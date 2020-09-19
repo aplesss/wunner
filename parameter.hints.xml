@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="androidx.core.content.FileProvider.getUriForFile(context,authority,file)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
